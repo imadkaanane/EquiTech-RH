@@ -1,0 +1,10 @@
+﻿table;grain;colonne;type;unite_ou_sens;manquants
+rh;salarié;salarie_id;str;Identifiant fictif;0
+rh;salarié;sexe;str;F/H simulés, catégories simplifiées;0
+rh;salarié;age;int64;années;0
+rh;salarié;anciennete;int64;années;0
+rh;salarié;niveau;str;niveau de poste fictif;0
+rh;salarié;metier;str;famille métier fictive;0
+rh;salarié;site;str;site fictif;0
+rh;salarié;quotite;float64;ETP entre 0 et 1;0
+rh;salarié;salaire_annuel_verse;float64;EUR/an pour quotité contractuelle;0
